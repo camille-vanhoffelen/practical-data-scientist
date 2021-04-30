@@ -78,7 +78,7 @@ _Students can analyse a public dataset from scratch_
 * **Workstation Setup**  
 [notebook](prepwork/workstation_setup.ipynb)
 
-* **Python Code Challenges**
+* **Python Code Challenges**  
 [notebook](prepwork/prepwork.ipynb)
 
 ### Week 1: Data Munging
