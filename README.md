@@ -54,7 +54,7 @@ The course content is also open-source and free to use. Here's a few ideas:
 - Forget about the slides, find the notebook for that method you can't remember how to use, and copy paste to your heart's content.
 - Test yourself with the assignments. Become the nerdiest Pokemon trainer there ever was.
 
-Notebooks can be viewed in [github](#syllabus), viewed in [nbviewer](https://nbviewer.jupyter.org/github/camille-vanhoffelen/practical-data-scientist/tree/master/), run locally with [jupyter](introduction/workstation_setup.ipynb), run with [mybinder](https://mybinder.org/v2/gh/camille-vanhoffelen/practical-data-scientist/master), or run with [google colab](https://colab.research.google.com/github/camille-vanhoffelen/practical-data-scientist/blob/master/data_exploration/lecture2.1/introduction_to_numpy_and_pandas.ipynb).
+Notebooks can be viewed in [github](#syllabus), viewed in [nbviewer](https://nbviewer.jupyter.org/github/camille-vanhoffelen/practical-data-scientist/tree/master/), run locally with [jupyter](prepwork/workstation_setup.ipynb), run with [mybinder](https://mybinder.org/v2/gh/camille-vanhoffelen/practical-data-scientist/master), or run with [google colab](https://colab.research.google.com/github/camille-vanhoffelen/practical-data-scientist/blob/master/prepwork/workstation_setup.ipynb).
 
 ## Learning Goals
 
@@ -76,8 +76,10 @@ _Students can analyse a public dataset from scratch_
 ### Prepwork
 
 * **Workstation Setup**  
-[slides](https://docs.google.com/presentation/d/1NzSp1gmr07PSPhl6GQJbUGuuCyaw8XOCuRNq7cJyrY8/edit?usp=sharing) [notebook](introduction/workstation_setup.ipynb)
+[notebook](prepwork/workstation_setup.ipynb)
+
 * **Python Code Challenges**
+[notebook](prepwork/prepwork.ipynb)
 
 ### Week 1: Data Munging
 
