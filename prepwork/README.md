@@ -18,7 +18,7 @@ This prepwork will test your **beginner python skills**. It will also help you s
 
 #### How long does this take to complete?
 
-Depending on your mastery of python, it could take anything from 1hr to 3hrs. The most important isn't how fast you complete the challenges, but how **comfortable** you are doing so. If it already hurts writing code, learning Data Science is not going to be fun!
+Depending on your level of python, it could take anything from one to a few hours. The most important isn't how fast you're going, but how **comfortable** you are. If it already hurts writing code, learning Data Science is not going to be fun!
 
 #### Is there a deadline?
 
@@ -40,10 +40,10 @@ Maybe, some operating systems make this step difficult. Please reach out to one 
 
 No, take a break and try again :)
 
-#### This prepwork is too difficult. Is the course for me?
+#### What if I can't complete the code challenges?
 
-Maybe not ... yet. Explore [one](https://www.codecademy.com/learn/learn-python-3) of [many](https://www.learnpython.org/) online resources to sharpen your skill set, or try some [challenges](https://www.hackerrank.com/domains/python). Then come back when you're ready!
+It's ok! The challenges don't have a unique solution, and are somewhat open-ended - so please submit whatever you have. If you found the prepwork too difficult, we will recommend some Python learning resources to get you ready before the next cohort.
 
 ## :envelope: Contact
 
-For more questions, or if you are stuck with the workstation setup, please contact us directly through the course public discord.
+For more questions, or if you are stuck with the workstation setup, please contact us directly on discord.
