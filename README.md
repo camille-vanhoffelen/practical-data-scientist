@@ -85,11 +85,12 @@ _Students can analyse a public dataset from scratch_
 
 The nitty-gritty of data analysis: this chapter teaches you how to load, clean, and manipulate basic datasets in python.
 
-
-* **1.1 Introduction to Numpy & Pandas**  
-slides notebook
+* **1.0 Introduction**  
+[slides](https://docs.google.com/presentation/d/1al_A2oOfz21AYTgqRHuSVUclckif0gLI3UDpP4Dy5Ow/edit?usp=sharing)
+* **1.1 Numpy & Pandas**  
+[slides](https://docs.google.com/presentation/d/1B66WgZfitY8FTMUu4I1Q5AihxTHJZwsqb3ZP4FgSsCg/edit?usp=sharing) [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_1/1.1_introduction_to_numpy_and_pandas/introduction_to_numpy_and_pandas.ipynb)
 * **1.2 Tabular Data Pt.1**  
-slides notebook
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_1/1.2_tabular_data_pt.1/tabular_data_pt.1.ipynb)
 * **1.3 Tabular Data Pt.2**  
 slides notebook
 
