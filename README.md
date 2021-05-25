@@ -77,7 +77,6 @@ _Students can analyse a public dataset from scratch_
 
 * **Workstation Setup**  
 [notebook](prepwork/workstation_setup.ipynb)
-
 * **Python Code Challenges**  
 [notebook](prepwork/prepwork.ipynb)
 
@@ -88,7 +87,7 @@ The nitty-gritty of data analysis: this chapter teaches you how to load, clean, 
 * **1.0 Introduction**  
 [slides](https://docs.google.com/presentation/d/1al_A2oOfz21AYTgqRHuSVUclckif0gLI3UDpP4Dy5Ow/edit?usp=sharing)
 * **1.1 Numpy & Pandas**  
-[slides](https://docs.google.com/presentation/d/1B66WgZfitY8FTMUu4I1Q5AihxTHJZwsqb3ZP4FgSsCg/edit?usp=sharing) [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_1/1.1_introduction_to_numpy_and_pandas/introduction_to_numpy_and_pandas.ipynb)
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_1/1.1_introduction_to_numpy_and_pandas/introduction_to_numpy_and_pandas.ipynb) [slides](https://docs.google.com/presentation/d/1B66WgZfitY8FTMUu4I1Q5AihxTHJZwsqb3ZP4FgSsCg/edit?usp=sharing) [live recording](https://drive.google.com/file/d/12q3IlVqKYuIZ2fyL0q9_JkMVH2-jFWe8/view?usp=sharing)
 * **1.2 Tabular Data Pt.1**  
 [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_1/1.2_tabular_data_pt.1/tabular_data_pt.1.ipynb)
 * **1.3 Tabular Data Pt.2**  
