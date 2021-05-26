@@ -91,7 +91,7 @@ The nitty-gritty of data analysis: this chapter teaches you how to load, clean, 
 * **1.2 Tabular Data Pt.1**  
 [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_1/1.2_tabular_data_pt.1/tabular_data_pt.1.ipynb)
 * **1.3 Tabular Data Pt.2**  
-slides notebook
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_1/1.3_tabular_data_pt.2/tabular_data_pt.2.ipynb) [live recording](https://drive.google.com/file/d/1X7GYg29errwa6lK1HNCxq2iQ16Z5rxjl/view?usp=sharing)
 
 ### Week 2: Data Exploration
 
