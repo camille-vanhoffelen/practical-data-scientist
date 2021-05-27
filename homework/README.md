@@ -9,7 +9,7 @@
 
 :handshake: This is also a _micro-class_, where collaboration is encouraged, and guidance is expected. Do talk to your fellow students about certain problems, and plan coding sessions. Do ask for teachers' help in the discord, and look for answers online. However, whereas collaboration and guidance improve learning, plagiarism does not. So please don't copy-paste answers without understanding them, and don't ask for assistance without attempting the problems yourself.
 
-:partying_face: Most important of all, homework is purposefully sometimes frustrating and sometimes rewarding, so have fun!
+:tada: Most important of all, homework is purposefully sometimes frustrating and sometimes rewarding, so have fun!
 
 
 ## 2. Format
