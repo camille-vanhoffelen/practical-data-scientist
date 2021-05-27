@@ -35,9 +35,9 @@ For :brain: **:written questions**, :star_struck: will be given for a comprehens
 
 For :muscle: **coding tasks**, :star_struck: will be given to functional and quality code, :slightly_smiling_face: for partially functional or convoluted code, and :confused: for wrong approaches. Code quality includes using the correct methods, following api "best practices", efficiency, clarity, and comments. This does means that you may get :slightly_smiling_face: for broken code if the attempt is coherent, and commented or self-explanatory, so always include your best attempt!
 
-Where applicable, **unit tests** will be provided underneath the incomplete code cells to help you validate your work. **Warning: The unit tests are not used for grading**. The behaviour of your code will be manually assessed. Code that passes a unit test is not necessarily accomplishing the task correctly, so please check and debug your code thoroughly. However , failing the unit tests is a strong indication that you should fix your code, and passing the unit tests is a good sign that your code is working as expected.
+Where applicable, **unit tests** will be provided underneath the incomplete code cells to help you validate your work. **Warning**: Code that passes a unit test is not necessarily accomplishing the task correctly, so please check and debug your code thoroughly. However, failing the unit tests is a strong indication that you should fix your code, and passing the unit tests is a good sign that your code is working as expected.
 
-**Bonus** tasks and questions serve are not mandatory. Complete them if you wish to take your learning further, or if you find the problems fun!
+**Bonus** tasks and questions are optional. Complete them if you wish to take your learning further, or if you find the problems fun!
 
 ## 5. Late Submissions
 
