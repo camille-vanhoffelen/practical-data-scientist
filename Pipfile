@@ -8,6 +8,9 @@ jupyter = "*"
 numpy = "*"
 pandas = "*"
 matplotlib = "*"
+spacy = "*"
+pillow = "*"
+wordcloud = "*"
 
 [dev-packages]
 
