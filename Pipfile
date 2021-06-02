@@ -11,6 +11,7 @@ matplotlib = "*"
 spacy = "*"
 pillow = "*"
 wordcloud = "*"
+seaborn = "*"
 
 [dev-packages]
 
