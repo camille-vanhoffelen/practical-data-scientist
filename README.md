@@ -98,11 +98,11 @@ The nitty-gritty of data analysis: this chapter teaches you how to load, clean, 
 Beyond tables: learn how to extract and communicate key insights from time-series, text, and image datasets.
 
 * **2.1 Time Series Data**  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_2/1.4_time_series_data/time_series_data.ipynb) [slides](https://docs.google.com/presentation/d/1y1jH91WlM8NCO8yrz_B9XSf4xoFq0w1KGDwi03sxeQs/edit?usp=sharing) [live recording](https://drive.google.com/file/d/1Vt0ctoaI0_RagYty2__fNcOc380ItHLq/view?usp=sharing)
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_2/2.1_time_series_data/time_series_data.ipynb) [slides](https://docs.google.com/presentation/d/1y1jH91WlM8NCO8yrz_B9XSf4xoFq0w1KGDwi03sxeQs/edit?usp=sharing) [live recording](https://drive.google.com/file/d/1Vt0ctoaI0_RagYty2__fNcOc380ItHLq/view?usp=sharing)
 * **2.2 Text & Image Data**  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_2/1.5_text_and_image_data/text_and_image_data.ipynb)
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_2/2.2_text_and_image_data/text_and_image_data.ipynb)
 * **2.3 Data Visualization**  
-slides notebook
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_2/2.3_data_visualization/data_visualization.ipynb) [slides](https://docs.google.com/presentation/d/15gc6iD2vZEIdp1j_sl4BVG9ux6mLoP7IujrgMoWpAtc/edit?usp=sharing) [live recording](https://drive.google.com/file/d/16I7CvdEtBPqv8PLcz6-nNInc1Uqmcixz/view?usp=sharing)
 
 ### Week 3: Unsupervised Learning
 
