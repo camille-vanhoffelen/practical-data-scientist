@@ -109,9 +109,9 @@ Beyond tables: learn how to extract and communicate key insights from time-serie
 Analytical power-up: this chapter adds clustering, dimensionality reduction, and anomaly detection to your data analysis techniques.
 
 * **3.1 Clustering**  
-slides notebook
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_3/3.1_clustering/clustering.ipynb) [slides](https://docs.google.com/presentation/d/1ptkylKHC2VwEs3CQyMSvQcH0OTlIj4dHGn1iaGf8PKU/edit?usp=sharing) [live recording](https://drive.google.com/file/d/1I5g20S2gyA-xBt43IkJOEF26CERUq8Cj/view?usp=sharing)
 * **3.2 Dimensionality Reduction**  
-slides notebook
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_3/3.2_dimensionality_reduction/dimensionality_reduction.ipynb) [slides](https://docs.google.com/presentation/d/1O6CCU8MTWrYi2TUp9Lx4p44cl4k2ceDpSuiGlhZlc4M/edit?usp=sharing)
 * **3.3 Anomaly Detection**  
 slides notebook
 
