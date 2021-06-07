@@ -12,6 +12,8 @@ spacy = "*"
 pillow = "*"
 wordcloud = "*"
 seaborn = "*"
+scikit-learn = "*"
+folium = "*"
 
 [dev-packages]
 
