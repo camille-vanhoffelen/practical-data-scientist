@@ -130,12 +130,12 @@ Moving past data summaries: this chapter introduces predictive models to solve f
 
 Taming the beast: this chapter shows how build accurate and effective machine learning models.
 
-* **5.1 Evaluation Fundamentals**  
-slides notebook
-* **5.2 Learning Better Pt.1**  
-slides notebook
-* **5.3 Learning Better Pt.2**  
-slides notebook
+* **5.1 Learning Better Pt.1**  
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_5/5.1_learning_better_pt.1/learning_better_pt.1.ipynb) [slides](https://docs.google.com/presentation/d/10slLSQ_iTsG932vSEcuNKRz0U_HGnahzUkDfB-FDlu0/edit?usp=sharing) [live recording]()
+* **5.2 Learning Better Pt.2**
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_5/5.2_learning_better_pt.2/learning_better_pt.2.ipynb) [slides](https://docs.google.com/presentation/d/1kkDqS9gIMHgsMFkBK4NW7qp5P9cNlVuowWswB0AKI7g/edit?usp=sharing)
+* **5.3 Evaluation Fundamentals**  
+notebook slides
 
 ### Week 6: Final Project
 
@@ -146,7 +146,6 @@ This chapter tests your skills on a public dataset by completing an exploratory 
 * Week 1
 * Week 2
 * Week 3
-* Week 4
 * Week 5
 * Final Project
 * Final Presentation
