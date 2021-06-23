@@ -131,7 +131,7 @@ Moving past data summaries: this chapter introduces predictive models to solve f
 Taming the beast: this chapter shows how build accurate and effective machine learning models.
 
 * **5.1 Learning Better Pt.1**  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_5/5.1_learning_better_pt.1/learning_better_pt.1.ipynb) [slides](https://docs.google.com/presentation/d/10slLSQ_iTsG932vSEcuNKRz0U_HGnahzUkDfB-FDlu0/edit?usp=sharing) [live recording]()
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_5/5.1_learning_better_pt.1/learning_better_pt.1.ipynb) [slides](https://docs.google.com/presentation/d/10slLSQ_iTsG932vSEcuNKRz0U_HGnahzUkDfB-FDlu0/edit?usp=sharing) [live recording](https://drive.google.com/file/d/1R_HZgKiGaF39ifbEzFPCQ5GUiACbJcOH/view?usp=sharing)
 * **5.2 Learning Better Pt.2**
 [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_5/5.2_learning_better_pt.2/learning_better_pt.2.ipynb) [slides](https://docs.google.com/presentation/d/1kkDqS9gIMHgsMFkBK4NW7qp5P9cNlVuowWswB0AKI7g/edit?usp=sharing)
 * **5.3 Evaluation Fundamentals**  
