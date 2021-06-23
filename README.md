@@ -126,16 +126,16 @@ Moving past data summaries: this chapter introduces predictive models to solve f
 * **4.3 Logistic Regression**  
 [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_4/4.3_logistic_regression/logistic_regression.ipynb) [slides](https://docs.google.com/presentation/d/1OFUOLk_aGgc3GZv0WpvpeTlfU9YAQ8IqsLjJrjmOLFo/edit?usp=sharing) [live recording](https://drive.google.com/file/d/1F6PEHXl_1off8D5KP7JKb7K7-b2Uba2W/view?usp=sharing)
 
-### Week 5: Advanced Supervised Learning
+### Week 5: Advanced Supervised Learning  
 
 Taming the beast: this chapter shows how build accurate and effective machine learning models.
 
 * **5.1 Learning Better Pt.1**  
 [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_5/5.1_learning_better_pt.1/learning_better_pt.1.ipynb) [slides](https://docs.google.com/presentation/d/10slLSQ_iTsG932vSEcuNKRz0U_HGnahzUkDfB-FDlu0/edit?usp=sharing) [live recording](https://drive.google.com/file/d/1R_HZgKiGaF39ifbEzFPCQ5GUiACbJcOH/view?usp=sharing)
-* **5.2 Learning Better Pt.2**
+* **5.2 Learning Better Pt.2**  
 [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_5/5.2_learning_better_pt.2/learning_better_pt.2.ipynb) [slides](https://docs.google.com/presentation/d/1kkDqS9gIMHgsMFkBK4NW7qp5P9cNlVuowWswB0AKI7g/edit?usp=sharing)
 * **5.3 Evaluation Fundamentals**  
-notebook slides
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_5/5.3_evaluation/evaluation.ipynb) [slides](https://docs.google.com/presentation/d/1SWosBxiWs7MWe4L_c0EvjwD2auGxqtamaGWNzp44Hm8/edit?usp=sharing) [live recording](https://drive.google.com/file/d/1VCcWnFinQkSuxeuUrlxG2-mo66oSX56i/view?usp=sharing)
 
 ### Week 6: Final Project
 
