@@ -26,7 +26,7 @@ Downloading resources with git is called "cloning". We are effectively copying t
 
 Once cloned, you should see `No local changes` in the center of the window, and `Current Repository: practical-data-scientist` in the top left corner as such:
 
-![Github Desktop](github_desktop.png)
+![Github Desktop](resources/github_desktop.png)
 
 This means you have successfully downloaded the course repository! 🎉
 
@@ -64,7 +64,7 @@ Now we have setup the conda-forge channel, we can search and download packages. 
 * Select `Apply` then `Apply` again
 You should the status: `Installing packages on /opt/anaconda3` at the bottom of the window as such:
 
-![Conda Install](conda_install.png)
+![Conda Install](resources/conda_install.png)
 
 Once complete, you have successfully downloaded the course python dependencies! 🎉
 
@@ -81,7 +81,7 @@ Today, we'll setup a local jupyter notebook server on your machine. Since this i
 * Launch the `Jupyter Notebook` application
 
 A window should open in your browser as such:
-![Jupyter Notebook Server](jupyter_notebook_server.png)
+![Jupyter Notebook Server](resources/jupyter_notebook_server.png)
 
 You have started a jupyter notebook server! 🎉 
 
@@ -94,7 +94,7 @@ I won't write about the basics of notebooks here, since jupyter hosts a wonderfu
 * Under `prepwork`, open `prepwork.ipynb`
 
 The prepwork notebook should open in a new tab in your browser as such:
-![Prepwork Notebook](prepwork_notebook.png)
+![Prepwork Notebook](resources/prepwork_notebook.png)
 
 Congratulations, you are now running local jupyter notebooks, and are ready to start the course! 🎉🎉
 
