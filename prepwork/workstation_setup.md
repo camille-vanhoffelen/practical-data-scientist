@@ -8,7 +8,7 @@ Some operating systems make this step difficult. If you are stuck with the works
 
 [git](https://git-scm.com/) is a crucial tool for programmers. It facilitates sharing and collaboration of code, files, and resources. All course contents are distributed with `git`, and found in the course repository hosted on [GitHub](https://github.com/JungleProgram/practical-data-scientist).
 
-⏩_If you are already comfortable with git, please clone the [course repository](https://github.com/JungleProgram/practical-data-scientist) and skip to the Python Environment section._
+⏩ _If you are already comfortable with git, please clone the [course repository](https://github.com/JungleProgram/practical-data-scientist) and skip to the Python Environment section._
 
 #### 1.1 Install
 
@@ -38,7 +38,7 @@ Once in a while, the course repository will be updated on GitHub. You can "pull"
 
 Before we start doing fancy things with python 🐍, we've got to install in a way that's easy to use and configure. [Conda](https://docs.conda.io/en/latest/) is a pre-packaged dependency manager for python, and will save us a lot of time with installs and imports. 
 
-ℹ️_If you are a seasoned developer and don't like conda, this [pyenv+pipenv](https://hackernoon.com/reaching-python-development-nirvana-bb5692adf30c) setup gives more fine-grained control over your python environments. Warning, this install requires unix & bash experience._
+ℹ️ _If you are a seasoned developer and don't like conda, this [pyenv+pipenv](https://hackernoon.com/reaching-python-development-nirvana-bb5692adf30c) setup gives more fine-grained control over your python environments. Warning, this install requires unix & bash experience._
 
 #### 2.1 Conda
 
@@ -48,9 +48,9 @@ Before we start doing fancy things with python 🐍, we've got to install in a w
 
 This course uses a few libraries that aren't installed with conda by default. The [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/getting-started/#navigator-starting-navigator) app allows us to manage our python environments and dependencies.
 
-⏩_If you are comfortable with the terminal, you can install course dependencies directly with `conda install folium spacy wordcloud -c conda-forge`, and skip to the Jupyter Notebooks section._
+⏩ _If you are comfortable with the terminal, you can install course dependencies directly with `conda install folium spacy wordcloud -c conda-forge`, and skip to the Jupyter Notebooks section._
 
-We first have to add the [conda-forge](https://conda-forge.org/) [channel](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/channels.html#what-is-a-conda-channel) to our conda install.
+We first have to add the [conda-forge](https://conda-forge.org/) [channel](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/channels.html#what-is-a-conda-channel) to our conda.
 
 * [Open the Anaconda-Navigator app](https://docs.anaconda.com/anaconda/navigator/getting-started/#navigator-starting-navigator) and select the `Environments` tab.
 * Under`Channels` -> `Add...`, enter `conda-forge`
@@ -75,7 +75,7 @@ Once complete, you have successfully downloaded the course python dependencies! 
 Today, we'll setup a local jupyter notebook server on your machine. Since this is python, `jupyter` is managed by conda, and accessible directly in the [Navigator](https://docs.anaconda.com/anaconda/navigator/)!
 
 #### 3.1 Running the Course Notebook Server
-⏩_If you are comfortable with the terminal, you can open the course jupyter notebook server directly by navigating to the course repository directory, and entering `jupyter notebook`._
+⏩ _If you are comfortable with the terminal, you can open the course jupyter notebook server directly by navigating to the course repository directory, and entering `jupyter notebook`._
 
 * Open the Anaconda-Navigator app and select the `Home` tab.
 * Launch the `Jupyter Notebook` application
