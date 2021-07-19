@@ -85,9 +85,9 @@ _Students can analyse a public dataset from scratch_
 The nitty-gritty of data analysis: this chapter teaches you how to load, clean, and manipulate basic datasets in python.
 
 * **1.0 Introduction**  
-[slides](https://docs.google.com/presentation/d/1al_A2oOfz21AYTgqRHuSVUclckif0gLI3UDpP4Dy5Ow/edit?usp=sharing)
+[slides](https://docs.google.com/presentation/d/1M9DGz1nipKs8SBILG4BDimNC-Uw5CJbk4Bl4Yx3PfL8/edit?usp=sharing)
 * **1.1 Numpy & Pandas**  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_1/1.1_introduction_to_numpy_and_pandas/introduction_to_numpy_and_pandas.ipynb) [slides](https://docs.google.com/presentation/d/1B66WgZfitY8FTMUu4I1Q5AihxTHJZwsqb3ZP4FgSsCg/edit?usp=sharing) 
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_1/1.1_introduction_to_numpy_and_pandas/introduction_to_numpy_and_pandas.ipynb) [slides](https://docs.google.com/presentation/d/1jvQFy6y1IxPqLXIxuEwmJWKioFBhBRWomSqDsPMCWqk/edit?usp=sharing) [live recording](https://drive.google.com/file/d/1t4UV_ms0cJYs0IVx6FmO-QJoKrTa4vsg/view?usp=sharing)
 * **1.2 Tabular Data Pt.1**  
 [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_1/1.2_tabular_data_pt.1/tabular_data_pt.1.ipynb)
 * **1.3 Tabular Data Pt.2**  
@@ -98,44 +98,44 @@ The nitty-gritty of data analysis: this chapter teaches you how to load, clean, 
 Beyond tables: learn how to extract and communicate key insights from time-series, text, and image datasets.
 
 * **2.1 Time Series Data**  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_2/2.1_time_series_data/time_series_data.ipynb) [slides](https://docs.google.com/presentation/d/1y1jH91WlM8NCO8yrz_B9XSf4xoFq0w1KGDwi03sxeQs/edit?usp=sharing)  
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_2/2.1_time_series_data/time_series_data.ipynb) 
 * **2.2 Text & Image Data**  
 [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_2/2.2_text_and_image_data/text_and_image_data.ipynb)
 * **2.3 Data Visualization**  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_2/2.3_data_visualization/data_visualization.ipynb) [slides](https://docs.google.com/presentation/d/15gc6iD2vZEIdp1j_sl4BVG9ux6mLoP7IujrgMoWpAtc/edit?usp=sharing)  
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_2/2.3_data_visualization/data_visualization.ipynb)  
 
 ### Week 3: Unsupervised Learning
 
 Analytical power-up: this chapter adds clustering, dimensionality reduction, and anomaly detection to your data analysis techniques.
 
 * **3.1 Clustering**  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_3/3.1_clustering/clustering.ipynb) [slides](https://docs.google.com/presentation/d/1ptkylKHC2VwEs3CQyMSvQcH0OTlIj4dHGn1iaGf8PKU/edit?usp=sharing)  
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_3/3.1_clustering/clustering.ipynb)   
 * **3.2 Dimensionality Reduction**  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_3/3.2_dimensionality_reduction/dimensionality_reduction.ipynb) [slides](https://docs.google.com/presentation/d/1O6CCU8MTWrYi2TUp9Lx4p44cl4k2ceDpSuiGlhZlc4M/edit?usp=sharing)
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_3/3.2_dimensionality_reduction/dimensionality_reduction.ipynb)
 * **3.3 Anomaly Detection**  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_3/3.3_anomaly_detection/anomaly_detection.ipynb) [slides](https://docs.google.com/presentation/d/1U1ckFKjtk__-UsCH7nhtvjNzeGvwRwHIBD0xSZOInjg/edit?usp=sharing)   
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_3/3.3_anomaly_detection/anomaly_detection.ipynb)   
 
 ### Week 4: Supervised Learning
 
 Moving past data summaries: this chapter introduces predictive models to solve fundamental machine learning tasks.
 
 * **4.1 Supervised Learning Fundamentals**  
-[slides](https://docs.google.com/presentation/d/1hJOvZ_4v-bb8LYjcbmrPRcNjkS_NIHTWeXraP5Tx9gA/edit?usp=sharing)  
+slides  
 * **4.2 Linear Regression**  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_4/4.2_linear_regression/linear_regression.ipynb) [slides](https://docs.google.com/presentation/d/14xIIfNEfN7w2d3mqEH2vwDV9DVMWh-SHeW1pBbOYKio/edit?usp=sharing)
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_4/4.2_linear_regression/linear_regression.ipynb) 
 * **4.3 Logistic Regression**  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_4/4.3_logistic_regression/logistic_regression.ipynb) [slides](https://docs.google.com/presentation/d/1OFUOLk_aGgc3GZv0WpvpeTlfU9YAQ8IqsLjJrjmOLFo/edit?usp=sharing)  
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_4/4.3_logistic_regression/logistic_regression.ipynb) 
 
 ### Week 5: Advanced Supervised Learning  
 
 Taming the beast: this chapter shows how build accurate and effective machine learning models.
 
 * **5.1 Learning Better Pt.1**  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_5/5.1_learning_better_pt.1/learning_better_pt.1.ipynb) [slides](https://docs.google.com/presentation/d/10slLSQ_iTsG932vSEcuNKRz0U_HGnahzUkDfB-FDlu0/edit?usp=sharing)  
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_5/5.1_learning_better_pt.1/learning_better_pt.1.ipynb)  
 * **5.2 Learning Better Pt.2**  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_5/5.2_learning_better_pt.2/learning_better_pt.2.ipynb) [slides](https://docs.google.com/presentation/d/1kkDqS9gIMHgsMFkBK4NW7qp5P9cNlVuowWswB0AKI7g/edit?usp=sharing)
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_5/5.2_learning_better_pt.2/learning_better_pt.2.ipynb)  
 * **5.3 Evaluation Fundamentals**  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_5/5.3_evaluation/evaluation.ipynb) [slides](https://docs.google.com/presentation/d/1SWosBxiWs7MWe4L_c0EvjwD2auGxqtamaGWNzp44Hm8/edit?usp=sharing)  
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_5/5.3_evaluation/evaluation.ipynb)
 
 ### Week 6: Final Project
 
