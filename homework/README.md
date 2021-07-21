@@ -4,7 +4,7 @@
 
 ## 1. Philosophy
 
-:writing_hand: This is a _hands on_ course, meaning coding homework and projects are a key part of the learning. You are expected to spend at least as long solving problems as attending live classes. However, homeworks 1-5 test variations of what was already covered in class, and whilst challenging, are not meant to be extremely difficult. So if you are stuck, please consider revisiting one of the previous course notebooks.
+:writing_hand: This is a _hands on_ course, meaning coding homework and projects are a key part of the learning. You are expected to spend at least as long solving problems as attending live classes. However, homeworks 1-4 test variations of what was already covered in class, and whilst challenging, are not meant to be extremely difficult. So if you are stuck, please consider revisiting one of the previous course notebooks.
 
 
 :handshake: This is also a _micro-class_, where collaboration is encouraged, and guidance is expected. Do talk to your fellow students about certain problems, and plan coding sessions. Do ask for teachers' help in the discord, and look for answers online. However, whereas collaboration and guidance improve learning, plagiarism does not. So please don't copy-paste answers without understanding them, and don't ask for assistance without attempting the problems yourself.
@@ -26,7 +26,17 @@ The latter will always be clearly marked with `# INSERT YOUR CODE HERE` comments
 
 Please upload the completed jupyter notebook file (`.ipynb`) in this [airtable](https://airtable.com/shri5saP3xxEDtrHQ).
 
-## 4. Grading Scheme
+## 4. Deadlines
+
+### Homeworks 1-4
+
+Homeworks are given on Wednesdays, and you have 4 days to complete them. i.e the deadline is on **Sunday at 23:59**. Please respect deadlines - it is important to assimilate the content through practice and validate your learning before the next week.
+
+### Final Project
+
+The final project will start on the 23.08.2021, and you will be given 2 weeks to complete it.
+
+## 5. Grading Scheme
 
 
 Each problem has a three-tier grading scheme.
@@ -39,17 +49,11 @@ Where applicable, **unit tests** will be provided underneath the incomplete code
 
 **Bonus** tasks and questions are optional. Complete them if you wish to take your learning further, or if you find the problems fun!
 
-## 5. Late Submissions
+## 6. Feedback
 
-### Homeworks 1-5
+Homework feedback will be returned to you during the week following the deadline.
 
-Homeworks are given on Wednesdays, and you have 5 days to complete them. i.e the deadline is on **the next Monday lecture**. Please respect deadlines - it is important to assimilate the content through practice and validate your learning before the next week. 
-
-### Final Project
-
-The final project will start on the 28.06.2021, and you will be given 1 week to complete it.
-
-## 6. Tips
+## 7. Tips
 
 #### Methodology
 
