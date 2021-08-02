@@ -91,18 +91,18 @@ The nitty-gritty of data analysis: this chapter teaches you how to load, clean, 
 * **1.2 Tabular Data Pt.1**  
 [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_1/1.2_tabular_data_pt.1/tabular_data_pt.1.ipynb)
 * **1.3 Tabular Data Pt.2**  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_1/1.3_tabular_data_pt.2/tabular_data_pt.2.ipynb)  
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_1/1.3_tabular_data_pt.2/tabular_data_pt.2.ipynb) [live recording](https://drive.google.com/file/d/1_-r2pLimLEotj7viTz9LY7BSM0Os-gdY/view?usp=sharing)
   
 ### Week 2: Data Exploration
 
 Beyond tables: learn how to extract and communicate key insights from time-series, text, and image datasets.
 
 * **2.1 Time Series Data**  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_2/2.1_time_series_data/time_series_data.ipynb) 
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_2/2.1_time_series_data/time_series_data.ipynb) [slides](https://docs.google.com/presentation/d/1GnBLBjtLFY-mHNC4yFwnhCpu7BqKi4mU-f225WigaYQ/edit?usp=sharing) [live recording](https://drive.google.com/file/d/1RseUuLtbAezvd4JeOCTiUts6YJ831C0u/view?usp=sharing)
 * **2.2 Text & Image Data**  
 [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_2/2.2_text_and_image_data/text_and_image_data.ipynb)
 * **2.3 Data Visualization**  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_2/2.3_data_visualization/data_visualization.ipynb)  
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_2/2.3_data_visualization/data_visualization.ipynb) [slides](https://docs.google.com/presentation/d/1v9xzMcBq1EAtUYUw7l6VTh0gKET15M9VeVF11o-LfRI/edit?usp=sharing) [live recording](https://drive.google.com/file/d/1_2k0IasXVB0No0mLLqsNdjyVI9QUG7yP/view?usp=sharing)
 
 ### Week 3: Unsupervised Learning
 
