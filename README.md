@@ -98,9 +98,9 @@ The nitty-gritty of data analysis: this chapter teaches you how to load, clean, 
 Beyond tables: learn how to extract and communicate key insights from time-series, text, and image datasets.
 
 * **2.1 Time Series Data**  
-notebook slides live recording
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_2/2.1_time_series_data/time_series_data.ipynb) [slides](https://docs.google.com/presentation/d/1dTcnJCKKLqTTHoqoSaZqI0R-lWjDmmejKo_n5QSWS2M/edit?usp=sharing) [live recording](https://drive.google.com/file/d/1aV5befU0FdSvmeIYiDlqr-4RMD22AJtB/view?usp=drivesdk)
 * **2.2 Text & Image Data**  
-notebook
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_2/2.2_text_and_image_data/text_and_image_data.ipynb)
 * **2.3 Data Visualization**  
 notebook slides live recording
 
