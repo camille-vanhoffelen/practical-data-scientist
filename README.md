@@ -39,9 +39,11 @@ This course is perfect for the beginner coder looking to start a career in Data 
 Beginner programming skills are required. A little python experience (_can you define a function?_), and some statistical basics (_what's a standard deviation?_) are recommended. 
 
 
-#### :man_teacher: Who is this by?
+#### :teacher: Who is behind this?
 
-[Camille Van Hoffelen](https://www.linkedin.com/in/camillevanhoffelen/) has worked as an Machine Learning engineer for the last 7 years, with a focus on large scale Natural Language Processing systems. He was a lecturer in Machine Learning at Ilia State University, and is currently the CTO & Co-founder of Watergenics.
+Teacher:  [Camille Van Hoffelen](https://www.linkedin.com/in/camillevanhoffelen/) has worked as an Machine Learning engineer for the last 7 years, with a focus on large scale Natural Language Processing systems. He was a lecturer in Machine Learning at Ilia State University, and is currently the CTO & Co-founder of Watergenics.
+
+
 
 #### :rocket: How should I use this course?
 
@@ -113,7 +115,7 @@ Analytical power-up: this chapter adds clustering, dimensionality reduction, and
 * **3.2 Dimensionality Reduction**  
 [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_3/3.2_dimensionality_reduction/dimensionality_reduction.ipynb) [slides](https://docs.google.com/presentation/d/1ebVqjUgEpGSTs0iUQVKCJ4Nnxwf5_A-DRjvgsIJwJ9Y/edit?usp=sharing)
 * **3.3 Anomaly Detection**  
-notebook slides live recording
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_3/3.3_anomaly_detection/anomaly_detection.ipynb) [slides](https://docs.google.com/presentation/d/1HSTEvju8YQisSwGVXyaiWl_5QOIKARyS5XHhUkJC34g/edit?usp=sharing) [live recording](https://drive.google.com/file/d/1DhMxpj82qgRxNdqmgrHQO1Ry9_rHq36U/view?usp=sharing)
 
 ### Week 4: Supervised Learning
 
