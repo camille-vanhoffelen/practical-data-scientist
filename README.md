@@ -137,7 +137,7 @@ Taming the beast: this chapter shows how build accurate and effective machine le
 * **5.2 Learning Better Pt.2**  
 [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_5/5.2_learning_better_pt.2/learning_better_pt.2.ipynb) [slides](https://docs.google.com/presentation/d/1a2q6zyDf__EkNORbK5pnOE7QGr0tIcMWv6mj56P5AS4/edit?usp=sharing)
 * **5.3 Evaluation Fundamentals**  
-notebook slides live recording
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_5/5.3_evaluation/evaluation.ipynb) [slides](https://docs.google.com/presentation/d/1UgKLxWGwZy76Cz_TxsllJetosHNiGlp7tMYmCeERlOg/edit?usp=sharing) [live recording](https://drive.google.com/file/d/1gCXGQKYpYGpUxppQLLgz4p0bHFCyr5ER/view?usp=sharing)
 
 ### Week 6: Final Project
 
