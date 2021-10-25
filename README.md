@@ -139,7 +139,18 @@ Taming the beast: this chapter shows how build accurate and effective machine le
 * **5.3 Evaluation Fundamentals**  
 [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_5/5.3_evaluation/evaluation.ipynb) [slides](https://docs.google.com/presentation/d/1UgKLxWGwZy76Cz_TxsllJetosHNiGlp7tMYmCeERlOg/edit?usp=sharing) [live recording](https://drive.google.com/file/d/1gCXGQKYpYGpUxppQLLgz4p0bHFCyr5ER/view?usp=sharing)
 
-### Week 6: Final Project
+### Week 6: Non-Linear Models
+
+* **6.1 Support Vector Machines**
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_6/6.1_support_vector_machines/support_vector_machines.ipynb) [slides](https://docs.google.com/presentation/d/1unJajtWVvzeEEpOEm9iQtCIEUOj5ksAXaZs_Glc_Cr4/edit?usp=sharing) [live recording](https://drive.google.com/file/d/1596Dy25XndjgSHUV5pzjs7nQo45tByd1/view?usp=sharing)
+
+* **6.2 Naive Bayes & Decision Trees**
+[notebook](https://github.com/JungleProgram/practical-data-scientist/tree/main/week_6/6.2_naive_bayes_decision_trees) [slides](https://docs.google.com/presentation/d/1OuygfgQ3CrumgvtWDoGf5RnhJdXh2-D4C3BlCgYFo1E/edit?usp=sharing)
+
+* **6.3 Ensemble Methods**
+[notebook]() [slides]()
+
+### Week 7: Final Project
 
 This chapter tests your skills on a public dataset by completing an exploratory data analysis report, and training at least one Machine Learning model.
 
