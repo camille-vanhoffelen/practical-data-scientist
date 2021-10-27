@@ -148,7 +148,7 @@ Taming the beast: this chapter shows how build accurate and effective machine le
 [notebook](https://github.com/JungleProgram/practical-data-scientist/tree/main/week_6/6.2_naive_bayes_decision_trees) [slides](https://docs.google.com/presentation/d/1OuygfgQ3CrumgvtWDoGf5RnhJdXh2-D4C3BlCgYFo1E/edit?usp=sharing)
 
 * **6.3 Ensemble Methods**
-[notebook]() [slides]()
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_6/6.3_ensemble_methods/ensemble_methods.ipynb) [slides](https://docs.google.com/presentation/d/1rivwmKsx085kaCAS9LzWsZIfpgOvg6RFTsCQO9fspqM/edit?usp=sharing) [live recording](https://drive.google.com/file/d/14DBG-K_1GHDWBAuKmK1qop2cSbe8tzrA/view?usp=sharing)
 
 ### Week 7: Final Project
 
