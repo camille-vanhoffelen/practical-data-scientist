@@ -7,7 +7,7 @@ In this final project, you will put into practice everything you have learned so
 
 ## Experimental Report
 
-**Due: 05/07/2020 at noon**
+**Due: 14/11/2021**
 
 This is a report like those data scientists make to share their experimental progress. It tests your ability to design, carry out, and communicate machine learning experiments.
 
@@ -24,8 +24,6 @@ label: `income`
 This is a regression task. Predict a person's medical insurance costs, using tabular data.
 label: `charges`
 [dataset url](https://introduction-to-machine-learning-ilia-university.s3.eu-west-2.amazonaws.com/final_project/medical_insurance.csv)
-
-Feel free to choose your own dataset + task, as long as it wasn't used in the course before. Please consult us before doing so, to check if the choice is a good fit for this project size.
 
 ### Format
 
@@ -98,7 +96,7 @@ A good project can choose to focus more on the experiments or the analysis. What
 
 ### Submission
 
-Notebooks should be sent via [airtable](https://airtable.com/shri5saP3xxEDtrHQ). If a custom task was chosen, please also provide a link to the dataset.
+Notebooks should be sent via [airtable](https://airtable.com/shri5saP3xxEDtrHQ).
 
 ### Pro-tips
 
@@ -121,7 +119,7 @@ I recommend a compromise however: first coding/debugging your experiments inside
 
 ## Presentation
 
-**Due: 05/07/2020 6.30pm**
+**Due: 15/11/2021 6.30pm**
 
 This is a short presentation like those data scientists are expected to make to summarize their experimental results. It tests the ability of the student to communicate, synthesize, and discuss machine learning experiments.
 
